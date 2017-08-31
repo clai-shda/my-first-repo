@@ -1,4 +1,4 @@
-print ("Hello python and git!!!!")$ git push origin master
+print ("Hello python and git!!!!")
 
 a = 3
 b = 99
